@@ -1,12 +1,12 @@
 //Test Case 1
 
-package newPackage1;
+package automationDemoWork;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class automationDemoWork2 {
+public class AutomationDemoWork2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
